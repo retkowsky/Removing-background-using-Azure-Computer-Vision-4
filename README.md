@@ -11,7 +11,12 @@ This feature provides two possible outputs based on the customer's needs:
 This service is currently in preview, and the API may change in the future.
 
 ## Python demo notebook
-<a href="https://github.com/retkowsky/image_retrieval_with_Azure_Computer_Vision_4.0/blob/main/Image%20retrieval%20(version%204.0%20preview)%20with%20Azure%20Computer%20Vision.ipynb">Python demo notebook</a>
+<a href="https://github.com/retkowsky/removing_background_azure_computer_vision_4/blob/main/Background%20removal%20with%20Azure%20Computer%20Vision%204.ipynb">Python demo notebook</a>
 
+## Some examples
 
-10-Mar-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
+<img src="cars.jpg">
+<img src="mask_cars.jpg">
+<img src="cars.jpg">
+
+13-Mar-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
