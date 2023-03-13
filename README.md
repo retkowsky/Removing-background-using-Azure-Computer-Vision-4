@@ -16,7 +16,24 @@ This service is currently in preview, and the API may change in the future.
 ## Some examples
 
 <img src="cars.jpg">
+<img src="object_cars.jpg">
 <img src="mask_cars.jpg">
-<img src="cars.jpg">
+
+<img src="football.jpg">
+<img src="object_football.jpg">
+<img src="mask_football.jpg">
+
+<img src="whitecar.jpg">
+<img src="object_whitecar.jpg">
+<img src="mask_whitecar.jpg">
+
+<img src="arc_triomphe.jpg">
+<img src="object_arc_triomphe.jpg">
+<img src="mask_arc_triomphe.jpg">
+
+<img src="fire_extinguisher.jpg">
+<img src="object_fire_extinguisher.jpg">
+<img src="mask_fire_extinguisher.jpg">
+
 
 13-Mar-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
