@@ -1,4 +1,4 @@
-# removing_background_azure_computer_vision_4
+# Removing background using Azure Computer Vision 4
 
 **The Image Analysis** service can divide images into multiple segments or regions to help the user identify different objects or parts of the image. **Background removal** creates an alpha matte that separates the foreground object from the background in an image.
 
